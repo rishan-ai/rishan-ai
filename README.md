@@ -6,16 +6,16 @@ I'm a high school student passionate about artificial intelligence, cybersecurit
 
 ---
 
-## 🚀 Current Interests
+## Current Interests
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🔐 Cybersecurity
-- 💻 Software Engineering
-- 🧠 AI Safety & LLM Research
+- Artificial Intelligence & Machine Learning
+- Cybersecurity
+- Software Engineering
+- AI Safety & LLM Research
 
 ---
 
-## 🛠️ Languages & Technologies
+## Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,21 +23,21 @@ I'm a high school student passionate about artificial intelligence, cybersecurit
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-🛡️ SafeScan AI *(coming soon)*
+ SafeScan AI *(coming soon)*
 
-📖 Data Poisoning in Language Translation Research
+ Data Poisoning in Language Translation Research
 
-🚗 Congressional App Challenge – Carpool Coordinator
+ Congressional App Challenge – Carpool Coordinator
 
-🤝 Congressional App Challenge – Volunteer Locator
+ Congressional App Challenge – Volunteer Locator
 
-🎮 AP Computer Science Projects
+ AP Computer Science Projects
 
 ---
 
-## 🏆 Experience
+## Experience
 
 - Future Impact Initiative – Nexus AI Program
 - FBI Cyber Academy
@@ -46,6 +46,6 @@ I'm a high school student passionate about artificial intelligence, cybersecurit
 
 ---
 
-## 📫 Connect
+## Connect
 
 - LinkedIn: https://www.linkedin.com/in/rishan-yarlagadda
