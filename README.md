@@ -1,4 +1,4 @@
-# Hi, I'm Rishan 👋
+# Hi, I'm Rishan 
 
 ### High School Student | AI • Cybersecurity • Software Engineering
 
