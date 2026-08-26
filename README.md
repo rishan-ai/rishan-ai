@@ -33,8 +33,6 @@ I'm a high school student passionate about artificial intelligence, cybersecurit
 
  Congressional App Challenge – Volunteer Locator
 
- AP Computer Science Projects
-
 ---
 
 ## Experience
