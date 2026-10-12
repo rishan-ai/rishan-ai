@@ -25,8 +25,6 @@ I'm a high school student passionate about artificial intelligence, cybersecurit
 
 ## Featured Projects
 
- SafeScan AI *(coming soon)*
-
  Data Poisoning in Language Translation Research
 
  Congressional App Challenge – Carpool Coordinator
